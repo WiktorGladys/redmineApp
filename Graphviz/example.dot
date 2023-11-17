@@ -1,0 +1,4 @@
+digraph Example {
+    Kod produktu -> Test
+    Test -> TestTest
+}
